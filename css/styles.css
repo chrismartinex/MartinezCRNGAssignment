@@ -1,0 +1,48 @@
+/* body {
+    background-color: khaki;
+} */
+
+
+ .indexBackground {
+    background-image: url("../assets/brandi-redd-aJTiW00qqtI-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: auto;
+    border: solid 2px;
+ }
+ .purpleText {
+    /* color: rgb(98, 68, 230); */
+    background-color: #253439;
+    color: rgb(241, 33, 33);
+    padding: 20px 20px 20px 20px;
+ }
+.light-blue-box {
+    background-color: #0f80a6;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+/* @import url(https://fonts.googleapis.com/css?family=Rokkitt);
+
+.rokkitt {
+    font-family: rokkitt;
+}
+
+;
+
+.light-blue-box {
+    background-color: #00BFFF;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+;
+
+.light-gray-box {
+    background-color: #A0A0A0;
+    color: white;
+    padding: 2px 2px 2px 2px;
+}
+
+; */
